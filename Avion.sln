@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avion", "Avion\Avion.csproj", "{A287D18A-3E41-43A0-8224-5E1D73BF204F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A287D18A-3E41-43A0-8224-5E1D73BF204F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A287D18A-3E41-43A0-8224-5E1D73BF204F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A287D18A-3E41-43A0-8224-5E1D73BF204F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A287D18A-3E41-43A0-8224-5E1D73BF204F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5FAF19-8366-4A03-8EE3-41D353524F92}
+	EndGlobalSection
+EndGlobal
